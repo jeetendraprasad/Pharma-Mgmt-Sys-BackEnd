@@ -10,4 +10,4 @@ For backend refer:  https://github.com/jeetendraprasad/Pharma-Mgmt-Sys-FrontEnd.
 For MongoDb refer: .\MONGO_DB_INSTALLATION_SETUP.txt
 
 .
-ver1
+ver2
