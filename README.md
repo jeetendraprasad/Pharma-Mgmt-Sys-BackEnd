@@ -11,3 +11,9 @@ For MongoDb refer: .\MONGO_DB_INSTALLATION_SETUP.txt
 
 .
 ver3
+
+HINT:-
+
+npm i
+
+npx nodemon server.js
